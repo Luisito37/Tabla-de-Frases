@@ -1,0 +1,7 @@
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\bin\Debug\Tabla de Frases.exe.config
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\bin\Debug\Tabla de Frases.exe
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\bin\Debug\Tabla de Frases.pdb
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\obj\Debug\Tabla de Frases.csprojAssemblyReference.cache
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\obj\Debug\Tabla de Frases.csproj.CoreCompileInputs.cache
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\obj\Debug\Tabla de Frases.exe
+C:\Users\Luisito\Lenguajes\C#\Tabla de Frases\obj\Debug\Tabla de Frases.pdb
